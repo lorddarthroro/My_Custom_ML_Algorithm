@@ -1,0 +1,1 @@
+This is just a fun project I'm working on. Going to try to make my own machine learning algorithm and test out it's accuracy. The goal is to beat out some of the more commonly used pre-existng algorithms out there. 
